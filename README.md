@@ -69,7 +69,7 @@ All interactions are smooth, and the layout adapts beautifully across screen siz
 ## 🛠️ Setup & Usage
 
 1. **Clone the repo:**
-git clone https://github.com/Crafted-By-Nouman/UniVerse-Converter-All-in-One-Smart-Unit-Converter-Website
+git clone https://github.com/Crafted-By-Nouman/UniVerse-Converter
 
 
 2. **Open in your browser:**
